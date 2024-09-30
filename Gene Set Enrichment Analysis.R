@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 # Title: Gene Set Enrichment Analysis and Pathway Annotation
-# Author: Æ¤Ë¿, improved by ¿ËÀÏÊ¦
+# Author: 皮丝, improved by 克老师
 # Date: 2024-09-30
 # Description: This script performs gene set enrichment analysis and annotates genes with their associated pathways.
 
